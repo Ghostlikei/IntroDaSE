@@ -1,0 +1,122 @@
+Report ID
+Report Version
+Reporting Entity
+Report Type
+Report Month
+Report Year
+Report Submission Date
+VIN
+VIN - Unknown
+Serial Number
+Make
+Model
+Model - Unknown
+Model Year
+Model Year - Unknown
+Same Vehicle ID
+Mileage
+Mileage - Unknown
+Driver / Operator Type
+ADAS/ADS Version
+ADAS/ADS Version - Unknown
+ADAS/ADS Version CBI
+ADS Equipped?
+Automation System Engaged?
+Operating Entity
+Operating Entity - Unknown
+Source - Complaint/Claim
+Source - Telematics
+Source - Law Enforcement
+Source - Field Report
+Source - Testing
+Source - Media
+Source - Other
+Source - Other Text
+Incident Date
+Incident Date - Unknown
+Notice Received Date
+Incident Time (24:00)
+Incident Time - Unknown
+Same Incident ID
+Latitude
+Latitude  - Unknown
+Longitude
+Longitude - Unknown
+Address
+Address - Unknown
+City
+City - Unknown
+State
+Zip Code
+Zip Code - Unknown
+Roadway Type
+Roadway Surface
+Roadway Description
+Posted Speed Limit (MPH)
+Posted Speed Limit - Unknown
+Lighting
+Weather - Clear
+Weather - Snow
+Weather - Cloudy
+Weather - Fog/Smoke
+Weather - Rain
+Weather - Severe Wind
+Weather - Unknown
+Weather - Other
+Weather - Other Text
+Crash With
+Highest Injury Severity
+Property Damage?
+CP Pre-Crash Movement
+CP Any Air Bags Deployed?
+CP Was Vehicle Towed?
+CP Contact Area - Rear Left
+CP Contact Area - Left
+CP Contact Area - Front Left
+CP Contact Area - Rear
+CP Contact Area - Top
+CP Contact Area - Front
+CP Contact Area - Rear Right
+CP Contact Area - Right
+CP Contact Area - Front Right
+CP Contact Area - Bottom
+CP Contact Area - Unknown
+SV Pre-Crash Movement
+SV Any Air Bags Deployed?
+SV Was Vehicle Towed?
+SV Were All Passengers Belted?
+SV Precrash Speed (MPH)
+SV Pre-crash Speed - Unknown
+SV Contact Area - Rear Left
+SV Contact Area - Left
+SV Contact Area - Front Left
+SV Contact Area - Rear
+SV Contact Area - Top
+SV Contact Area - Front
+SV Contact Area - Rear Right
+SV Contact Area - Right
+SV Contact Area - Front Right
+SV Contact Area - Bottom
+SV Contact Area - Unknown
+Data Availability - EDR
+Data Availability - Police Rpt
+Data Availability - Telematics
+Data Availability - Complaints
+Data Availability - Video
+Data Availability - Other
+Data Availability - No Data
+Data Availability - Unknown
+Law Enforcement Investigating?
+Investigating Agency
+Investigating Agency - Unknown
+Rep Ent Or Mfr Investigating?
+Investigating Officer Name
+Inv. Officer Name - Unknown
+Investigating Officer Phone
+Inv. Officer Phone - Unknown
+Investigating Officer Email
+Inv. Officer Email - Unknown
+Within ODD?
+Within ODD? - CBI
+Narrative
+Narrative - CBI?
